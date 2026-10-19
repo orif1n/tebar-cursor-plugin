@@ -1,0 +1,16 @@
+{
+  "name": "tebar",
+  "displayName": "Tebar",
+  "version": "1.0.0",
+  "description": "Publish and schedule posts to Instagram, Threads and LinkedIn, manage scheduled posts, and read post statistics and Instagram comments from Cursor.",
+  "author": {
+    "name": "Tebar",
+    "email": "halo@tebar.app"
+  },
+  "homepage": "https://tebar.app",
+  "repository": "https://github.com/orif1n/tebar-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["social media", "scheduling", "instagram", "threads", "linkedin", "mcp"],
+  "logo": "assets/logo.png",
+  "skills": "skills/"
+}

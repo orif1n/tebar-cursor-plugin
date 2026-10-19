@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "tebar": {
+      "url": "https://api.tebar.app/mcp"
+    }
+  }
+}
